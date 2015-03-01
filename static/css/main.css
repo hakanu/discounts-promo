@@ -14,14 +14,25 @@ h1 {
 }
 
 body {
-  /*background-image: url('http://res.cloudinary.com/hakanu/image/upload/v1406208018/blur-street_eferjm.jpg');*/
-  /*background-color: #84BF72;*/
   font-family: 'Alegreya Sans', Helvetica, Arial, sans-serif;
   font-size: 16px;
   line-height: 1.5;
   font-weight: 300;
-  /*background-color: #fdfdfd;*/
   background-color: rgb(132, 191, 114);
-  /*background-color: #480000;*/
   color: white;
+  text-align: center;
+}
+
+ul {
+  list-style-type: none;
+}
+
+.img-center {
+   display: inline;
+}
+
+footer {
+  background-color: green;
+  margin-top: 20px;
+  padding: 20px;
 }
