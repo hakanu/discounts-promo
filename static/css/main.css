@@ -1,0 +1,27 @@
+h1 {
+  /*font-family: 'Audiowide', cursive;*/
+  font-family: 'Alegreya Sans';
+  font-weight: 400;
+  font-size: 300%;
+}
+
+.masthead-brand {
+  font-family: 'Audiowide', cursive;
+}
+
+.lead, .mastfoot {
+  font-family: 'Alegreya Sans', sans-serif;
+}
+
+body {
+  /*background-image: url('http://res.cloudinary.com/hakanu/image/upload/v1406208018/blur-street_eferjm.jpg');*/
+  /*background-color: #84BF72;*/
+  font-family: 'Alegreya Sans', Helvetica, Arial, sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+  font-weight: 300;
+  /*background-color: #fdfdfd;*/
+  background-color: rgb(132, 191, 114);
+  /*background-color: #480000;*/
+  color: white;
+}
